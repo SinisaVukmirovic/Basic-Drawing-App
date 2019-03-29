@@ -57,7 +57,6 @@ function resizeCanvas() {
     canvas.height = window.innerHeight;
 }
 
-
 window.addEventListener('load', function() {
     canvas.width = window.innerWidth;
     canvas.height = window.innerHeight; 
